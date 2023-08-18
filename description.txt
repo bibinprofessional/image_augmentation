@@ -1,0 +1,1 @@
+This model uses torch and torchvision libraries in python to edit an image to desired way. This method of editing is much efficient and quality of image is also preserved.
